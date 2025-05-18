@@ -1,16 +1,15 @@
 <h1 align="center">Hola 👋, soy Darkyy</h1>
 <h3 align="center">Apasionado en optimizaciones</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkyytws&label=Profile%20views&color=0e75b6&style=flat" alt="darkyytws" /> </p>
-
 - 🔭 Estoy trabajando en: **DarkyyPremium**
 
 - 📫 ¿Como te escribo? **darkyytweaks@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/darkyytweaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darkyytweaks" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/darkyy-tweaks-1330975254717403248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/darkyy-tweaks-1330975254717403248" height="30" width="40" /></a>
+<a href="https://discord.gg/darkyy-tweaks-1330975254717403248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/darkyy-tweaks-1330975254717403248" height="30" width="40" />
+<a href="https://guns.lol/darkyy/" target="blank"><img align="center" src="https://i.imgur.com/Qm2GIZK.png" alt="https://guns.lol/darkyy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
